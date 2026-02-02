@@ -22,18 +22,10 @@
     ],
     "videos": [
         {
-            "id": "v1",
-            "title": "Pokémon Day e Gen 10: Grafica, Starter e altro - Leakkedì Gaia w/ Cydonia",
-            "thumbnailUrl": "https://i.ytimg.com/vi/9l3_2f-V4M4/hqdefault.jpg",
             "videoUrl": "https://www.youtube.com/watch?v=GOmM0koLSX0",
-            "duration": "2:30"
         },
                 {
-            "id": "v2",
-            "title": "Pokemon Legends palle",
-            "thumbnailUrl": "https://i.ytimg.com/vi/9l3_2f-V4M4/hqdefault.jpg",
             "videoUrl": "https://www.youtube.com/watch?v=9l3_2f-V4M4",
-            "duration": "2:30"
         }
     ],
     "pokemon": [
@@ -125,5 +117,6 @@
         }
     ]
 }
+
 
 
