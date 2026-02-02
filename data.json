@@ -5,35 +5,27 @@
     "news": [
         {
             "id": "1",
-            "title": "Mega Evolution Returns!",
+            "title": "L’espansione Megaevoluzione - Ascesa Eroica del GCC Pokémon è ora disponibile",
             "date": "2025-02-28",
-            "imageUrl": "https://archives.bulbagarden.net/media/upload/thumb/e/e6/Key_Stone_Watch_Sprite.png/300px-Key_Stone_Watch_Sprite.png",
-            "summary": "The bond between Pokemon and Trainer reaches new heights in Lumiose City.",
-            "url": "https://www.pokemon.com/us/pokemon-news"
+            "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2-it-it/img/trading-card-game/_tiles/me/me2pt5/launch/me2pt5-launch-169-it.png",
+            "summary": "Pokémon degli Allenatori e Pokémon‑ex Teracristal Astrali si uniscono a nuovi Pokémon‑ex Megaevoluzione in questa espansione.",
+            "url": "https://www.pokemon.com/it/novita-pokemon/lespansione-megaevoluzione-ascesa-eroica-del-gcc-pokemon-e-ora-disponibile"
         },
         {
             "id": "2",
-            "title": "Lumiose City Redevelopment",
+            "title": "Mega Gardevoir‑ex scende in campo nella nuova espansione Parata Fantasmagorica del GCC Pokémon Pocket",
             "date": "2025-03-15",
-            "imageUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/33/Lumiose_City_XY.png/300px-Lumiose_City_XY.png",
-            "summary": "Urban planning underway for a coexistence of people and Pokemon.",
-            "url": "https://www.pokemon.com/us/pokemon-news"
-        },
-        {
-            "id": "3",
-            "title": "Lumiose Citaaaaaa",
-            "date": "2025-03-15",
-            "imageUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/33/Lumiose_City_XY.png/300px-Lumiose_City_XY.png",
-            "summary": "Urban planning underway for a coexistence of people and Pokemon.",
-            "url": "https://www.pokemon.com/us/pokemon-news"
+            "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2-it-it/img/video-games/_tiles/tcg-pocket/2026/01/22/pokemon-tcg-pocket-169-it.png",
+            "summary": "Arrivano ancora più Pokémon‑ex Megaevoluzione da capogiro.",
+            "url": "https://www.pokemon.com/it/novita-pokemon/mega-gardevoir-ex-scende-in-campo-nella-nuova-espansione-parata-fantasmagorica-del-gcc-pokemon-pocket"
         }
     ],
     "videos": [
         {
             "id": "v1",
-            "title": "Pokemon Legends Z-A - Reveal Trailer",
+            "title": "Pokémon Day e Gen 10: Grafica, Starter e altro - Leakkedì Gaia w/ Cydonia",
             "thumbnailUrl": "https://i.ytimg.com/vi/9l3_2f-V4M4/hqdefault.jpg",
-            "videoUrl": "https://www.youtube.com/watch?v=9l3_2f-V4M4",
+            "videoUrl": "https://www.youtube.com/watch?v=GOmM0koLSX0",
             "duration": "2:30"
         },
                 {
@@ -133,4 +125,5 @@
         }
     ]
 }
+
 
