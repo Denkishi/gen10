@@ -22,10 +22,7 @@
     ],
     "videos": [
         {
-            "videoUrl": "https://www.youtube.com/watch?v=GOmM0koLSX0",
-        },
-                {
-            "videoUrl": "https://www.youtube.com/watch?v=9l3_2f-V4M4",
+            "videoUrl": "https://www.youtube.com/watch?v=9l3_2f-V4M4"
         }
     ],
     "pokemon": [
@@ -106,17 +103,6 @@
             ],
             "description": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
             "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png"
-        },
-        {
-            "name": "Peppe",
-            "type": [
-                "Fairy"
-            ],
-            "description": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
-            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png"
         }
     ]
 }
-
-
-
