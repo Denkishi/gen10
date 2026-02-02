@@ -1,21 +1,23 @@
 {
     "appTitle": "https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg",
     "appSubtitle": "Project Z-A",
-    "releaseDate": "2025-11-18T00:00:00Z",
+    "releaseDate": "2026-11-18T00:00:00Z",
     "news": [
         {
             "id": "1",
             "title": "Mega Evolution Returns!",
             "date": "2025-02-28",
             "imageUrl": "https://archives.bulbagarden.net/media/upload/thumb/e/e6/Key_Stone_Watch_Sprite.png/300px-Key_Stone_Watch_Sprite.png",
-            "summary": "The bond between Pokemon and Trainer reaches new heights in Lumiose City."
+            "summary": "The bond between Pokemon and Trainer reaches new heights in Lumiose City.",
+            "url": "https://www.pokemon.com/us/pokemon-news"
         },
         {
             "id": "2",
             "title": "Lumiose City Redevelopment",
             "date": "2025-03-15",
             "imageUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/33/Lumiose_City_XY.png/300px-Lumiose_City_XY.png",
-            "summary": "Urban planning underway for a coexistence of people and Pokemon."
+            "summary": "Urban planning underway for a coexistence of people and Pokemon.",
+            "url": "https://www.pokemon.com/us/pokemon-news"
         }
     ],
     "videos": [
