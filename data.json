@@ -22,7 +22,7 @@
     ],
     "videos": [
         {
-            "videoUrl": "https://www.youtube.com/watch?v=GOmM0koLSX0&pp=ygUHY3lkb25pYdgGAg%3D%3D"
+            "videoUrl": "https://www.youtube.com/watch?v=GOmM0koLSX0"
         }
     ],
     "pokemon": [
@@ -106,4 +106,5 @@
         }
     ]
 }
+
 
