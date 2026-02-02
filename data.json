@@ -18,12 +18,27 @@
             "imageUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/33/Lumiose_City_XY.png/300px-Lumiose_City_XY.png",
             "summary": "Urban planning underway for a coexistence of people and Pokemon.",
             "url": "https://www.pokemon.com/us/pokemon-news"
+        },
+        {
+            "id": "3",
+            "title": "Lumiose Citaaaaaa",
+            "date": "2025-03-15",
+            "imageUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/33/Lumiose_City_XY.png/300px-Lumiose_City_XY.png",
+            "summary": "Urban planning underway for a coexistence of people and Pokemon.",
+            "url": "https://www.pokemon.com/us/pokemon-news"
         }
     ],
     "videos": [
         {
             "id": "v1",
             "title": "Pokemon Legends Z-A - Reveal Trailer",
+            "thumbnailUrl": "https://i.ytimg.com/vi/9l3_2f-V4M4/hqdefault.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=9l3_2f-V4M4",
+            "duration": "2:30"
+        },
+                {
+            "id": "v2",
+            "title": "Pokemon Legends palle",
             "thumbnailUrl": "https://i.ytimg.com/vi/9l3_2f-V4M4/hqdefault.jpg",
             "videoUrl": "https://www.youtube.com/watch?v=9l3_2f-V4M4",
             "duration": "2:30"
@@ -107,6 +122,15 @@
             ],
             "description": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
             "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png"
+        },
+        {
+            "name": "Peppe",
+            "type": [
+                "Fairy"
+            ],
+            "description": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
+            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png"
         }
     ]
 }
+
