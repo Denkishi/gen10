@@ -38,6 +38,14 @@
     ],
     "pokemon": [
         {
+            "name": "Xerneas",
+            "type": [
+                "Fairy"
+            ],
+            "description": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
+            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
+        },
+        {
             "name": "Bulbasaur",
             "type": [
                 "Grass",
@@ -45,14 +53,6 @@
             ],
             "description": "Dopo la nascita, per un periodo di tempo cresce assorbendo i nutrienti stipati nel bulbo sul dorso.",
             "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png"
-        },
-        {
-            "name": "Xerneas",
-            "type": [
-                "Fairy"
-            ],
-            "description": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
-            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
         },
         {
             "name": "Yveltal",
