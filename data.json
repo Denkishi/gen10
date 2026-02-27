@@ -23,24 +23,24 @@
             "type": [
                 "Grass"
             ],
-            "description": "The lively but clumsy Bean Chick Pokémon",
-            "imageUrl": "https://raw.githubusercontent.com/Denkishi/gen10/refs/heads/main/assets/browt.png"
+            "description": "This Pokémon runs about energetically while photosynthesising using the leaves on its brow. It’s lively, but it can also be a bit clumsy.",
+            "imageUrl": "https://windswaves.pokemon.com/_images/feb_27_2026/starter_grass.webp"
         },
         {
             "name": "Pombon",
             "type": [
                 "Fire"
             ],
-            "description": "The guileless and friendly Puppy Pokémon",
-            "imageUrl": "https://raw.githubusercontent.com/Denkishi/gen10/refs/heads/main/assets/pombon.png"
+            "description": "The area below its throat glows faintly from the heat-generating organ within its lungs. This Pokémon is guileless and friendly.",
+            "imageUrl": "https://windswaves.pokemon.com/_images/feb_27_2026/starter_fire.webp"
         },
         {
             "name": "Gecqua",
             "type": [
                 "Water"
             ],
-            "description": "The intelligent Water Gecko Pokémon",
-            "imageUrl": "https://raw.githubusercontent.com/Denkishi/gen10/refs/heads/main/assets/gecqua.png"
+            "description": "This Pokémon launches springy balls of water from its tail. Gecqua is very intelligent and maneuvers shrewdly while putting on airs​.",
+            "imageUrl": "https://windswaves.pokemon.com/_images/feb_27_2026/starter_water.webp"
         }
     ]
 }
