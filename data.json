@@ -41,6 +41,22 @@
             ],
             "description": "This Pokémon launches springy balls of water from its tail. Gecqua is very intelligent and maneuvers shrewdly while putting on airs​.",
             "imageUrl": "https://windswaves.pokemon.com/_images/feb_27_2026/starter_water.webp"
+        },
+        {
+            "name": "Mr. Windychu",
+            "type": [
+                "Electric"
+            ],
+            "description": "The latest video featured the appearance of some Pikachu with a brand-new look. Just how could these Pikachu be involved in your adventure? Look forward to future announcements.",
+            "imageUrl": "https://windswaves.pokemon.com/_images/feb_27_2026/pikachu_1.webp"
+        },
+        {
+            "name": "Ms. Wavychu",
+            "type": [
+                "Electric"
+            ],
+            "description": "The latest video featured the appearance of some Pikachu with a brand-new look. Just how could these Pikachu be involved in your adventure? Look forward to future announcements.",
+            "imageUrl": "https://windswaves.pokemon.com/_images/feb_27_2026/pikachu_2.webp"
         }
     ]
 }
