@@ -24,7 +24,7 @@
                 "Grass"
             ],
             "description": "This Pokémon runs about energetically while photosynthesising using the leaves on its brow. It’s lively, but it can also be a bit clumsy.",
-            "imageUrl": "https://windswaves.pokemon.com/_images/feb_27_2026/starter_grass.webp"
+            "imageUrl": "https://windswaves.pokemon.com/_images/feb_27_2026/browt.webp"
         },
         {
             "name": "Pombon",
@@ -32,7 +32,7 @@
                 "Fire"
             ],
             "description": "The area below its throat glows faintly from the heat-generating organ within its lungs. This Pokémon is guileless and friendly.",
-            "imageUrl": "https://windswaves.pokemon.com/_images/feb_27_2026/starter_fire.webp"
+            "imageUrl": "https://windswaves.pokemon.com/_images/feb_27_2026/pombon.webp"
         },
         {
             "name": "Gecqua",
@@ -40,7 +40,7 @@
                 "Water"
             ],
             "description": "This Pokémon launches springy balls of water from its tail. Gecqua is very intelligent and maneuvers shrewdly while putting on airs​.",
-            "imageUrl": "https://windswaves.pokemon.com/_images/feb_27_2026/starter_water.webp"
+            "imageUrl": "https://windswaves.pokemon.com/_images/feb_27_2026/gecqua.webp"
         },
         {
             "name": "Mr. Windychu",
